@@ -1,3 +1,3 @@
 Some text here.
 Some changes in this file.
-123456789
+There were numbers from 1 to 9.
